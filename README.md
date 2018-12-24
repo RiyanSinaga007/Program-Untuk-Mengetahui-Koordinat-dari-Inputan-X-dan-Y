@@ -1,0 +1,1 @@
+# Program-Untuk-Mengetahui-Koordinat-dari-Inputan-X-dan-Y
